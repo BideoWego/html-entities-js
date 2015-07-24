@@ -16,4 +16,13 @@ See it in action on [JsFiddle][jsfiddle]
 	// Get the character and entity map
 	var map = HtmlEntities.map;
 
+## REFERENCES
+
+The current entity reference is here: [elizabethcastro.com][current].
+Although I'm not sure when, it would be preferred to update to use [W3C][next].
+
+However, the most common entities are addressed.
+
+[current]: http://www.elizabethcastro.com/html/extras/entities.html
+[next]: http://dev.w3.org/html5/html-author/charref
 [jsfiddle]: https://jsfiddle.net/BideoWego/muuvvof8/
